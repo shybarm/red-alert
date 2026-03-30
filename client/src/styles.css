@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, sans-serif;
+  color: #eef4ef;
+  background: #111712;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 1rem;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 1.25rem;
+}
+
+p {
+  margin: 0.25rem 0 1rem;
+  color: #b4c7bb;
+}
+
+.game-root {
+  width: 960px;
+  height: 540px;
+  border: 1px solid #42564a;
+}
